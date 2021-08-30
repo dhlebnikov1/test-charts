@@ -17,6 +17,6 @@ spec:
     remediation:
       remediateLastFailure: true
   values:
-    replicaCount: 1
+    replicaCount: 2
     image:
       tag: 0.4.1
